@@ -6,6 +6,7 @@ const ctn = document.getElementById('content');
 const musik = document.getElementById('musik');
 const ucapan = document.getElementById('ucapan');
 const btn = document.getElementById('btn');
+const atas2 = document.getElementById('atas2');
 const btn_2 = document.getElementById('btn_2');
 const btn_3 = document.getElementById('btn_3');
 const pesan = document.getElementById('link');
